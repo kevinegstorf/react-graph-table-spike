@@ -2,7 +2,7 @@ require('normalize.css');
 require('styles/App.css');
 
 import React from 'react';
-
+var TableComponent = require('./TableComponent');
 let yeomanImage = require('../images/yeoman.png');
 
 class AppComponent extends React.Component {
@@ -10,6 +10,7 @@ class AppComponent extends React.Component {
     return (
       <div className="index">
         <img src={yeomanImage} alt="Yeoman Generator" />
+         <TableComponent/>
         <div className="notice">Please edit <code>src/components/Main.js</code> to get started!</div>
       </div>
     );
