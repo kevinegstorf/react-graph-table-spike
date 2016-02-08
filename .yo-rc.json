@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "reactGraphTableSpike",
+    "style": "sass",
+    "postcss": true
+  }
+}
