@@ -1,3 +1,14 @@
+#Rules
+
+##To add new content:
+--
+- create a branch
+- add your code
+- test your code
+- create a PR  
+
+--
+#Basic commands
 ```
 # Start for development
 npm start # or
