@@ -1,14 +1,21 @@
-#Rules
+#Basics
+
+For this React spike i have used a [Yeoman React Generator](https://github.com/newtriks/generator-react-webpack).
 
 ##To add new content:
---
 - create a branch
 - add your code
 - test your code
 - create a PR  
 
---
-#Basic commands
+##Generators
+To generate a new component in the app use:
+```
+yo react-webpack:component my/namespaced/components/name
+
+```
+
+##NPM Commands
 ```
 # Start for development
 npm start # or
