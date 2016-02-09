@@ -2,7 +2,7 @@
 
 For this React spike I have used a [Yeoman React Generator](https://github.com/newtriks/generator-react-webpack).
 
-##Add New Content:
+##Add New Content
 - create a branch
 - add your code
 - test your code
