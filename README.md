@@ -1,8 +1,8 @@
 #Basics
 
-For this React spike i have used a [Yeoman React Generator](https://github.com/newtriks/generator-react-webpack).
+For this React spike I have used a [Yeoman React Generator](https://github.com/newtriks/generator-react-webpack).
 
-##To add new content:
+##Add New Content:
 - create a branch
 - add your code
 - test your code
