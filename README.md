@@ -39,3 +39,7 @@ npm run clean
 # Just copy the static assets
 npm run copy
 ```
+
+## The chart
+
+For the charts we will be using [chart.js](https://www.npmjs.com/package/react-chartjs).
