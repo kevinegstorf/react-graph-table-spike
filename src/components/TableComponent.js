@@ -8,7 +8,7 @@ class TableComponent extends React.Component {
   render() {
     return (
       <div className="table-component">
-      <table>
+        <table>
           <tr>
             <th>Animal Name</th>
             <th>Smith</th>
