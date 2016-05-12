@@ -1,7 +1,8 @@
 'use strict';
 let path = require('path');
 let defaultSettings = require('./defaults');
-let additionalPaths = [];
+let additionalPaths = [path.join(__dirname, '../node_modules/bootstrap/dist/css')];
+
 module.exports = {
   additionalPaths: additionalPaths,
   port: defaultSettings.port,
